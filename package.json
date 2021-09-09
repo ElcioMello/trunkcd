@@ -1,0 +1,19 @@
+{
+  "name": "cadastro_cliente",
+  "version": "1.0.0",
+  "description": "microservico de cadastro de clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElcioMello/trunkcd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElcioMello/trunkcd/issues"
+  },
+  "homepage": "https://github.com/ElcioMello/trunkcd#readme"
+}
